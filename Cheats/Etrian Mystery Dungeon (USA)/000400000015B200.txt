@@ -1,7 +1,10 @@
 
 
-[Max Money]
+[Max Money Held]
 007E7E10 000F423F
+
+[Max Money in Bank]
+007E7E14 05F5E0FF
 
 [All materials you own x99]
 C0000000 00000118
