@@ -1,6 +1,6 @@
 
 
-[999,999,999 Money]
+[99,999,999 Money]
 0809F25C 05F5E0FF
 
 [All Char. 255 Skill Points]
