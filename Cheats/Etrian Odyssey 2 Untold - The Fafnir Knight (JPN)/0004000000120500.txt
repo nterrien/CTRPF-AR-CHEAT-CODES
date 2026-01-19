@@ -1,0 +1,24 @@
+[Set Money to 99,999,999]
+0810DF78 05F5E0FF
+
+[All Char. 255 Skill Points]
+C0000000 0000001D
+2810DF82 000000FF
+DC000000 00000100
+D1000000 00000000
+
+[Change Classes of All Char.]
+*Landsknecht: 0;Survivalist: 1;Protector: 2;Dark Hunter: 3;Medic: 4;Alchemist: 5;Troubadour: 6;Ronin: 7;Hexer: 8;Gunner: 9;War Magus: A;Beast: B;Sovereign: C;Highlander: D;Fafnir: E
+C0000000 0000001D
+2810DF84 0000000E
+DC000000 00000100
+D1000000 00000000
+
+[Change to Day]
+2810DF4E 00000007
+
+[Change to Night]
+2810DF4E 00000013
+
+[Change Day]
+0810DF50 00000080
