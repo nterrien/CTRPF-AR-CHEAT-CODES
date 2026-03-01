@@ -95,3 +95,9 @@ C0000000 00000063
 2811026C 00000063
 DC000000 00000001
 D1000000 00000000
+
+[Press Y+R to obtain any item]
+*Replace xxxx by the address of the item in http://raid.s500.xrea.com/code/3ds/00120500/item.txt
+DD000000 00000900
+1810FFEC 0000xxxx
+D2000000 00000000
