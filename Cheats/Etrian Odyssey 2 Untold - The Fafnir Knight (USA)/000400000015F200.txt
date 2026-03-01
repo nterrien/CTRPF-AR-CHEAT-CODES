@@ -94,7 +94,7 @@ DC000000 00000001
 D1000000 00000000
 
 [Press Y+R to obtain any item]
-*Replace xxxx by the address of the item in https://etrianodyssey.wiki/wiki/EO2U/Cheat_Codes
+*Replace xxxx by the address of the item in https://etrianodyssey.wiki/wiki/EO2U/Cheat_Codes#Get_any_item
 DD000000 00000900
 1811470C 0000xxxx
 D2000000 00000000
