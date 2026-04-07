@@ -78,11 +78,33 @@ C0000000 00000270
 DC000000 00000001
 D1000000 00000000
 
-[Material sold to shop x99/All unlocked]
+[Material sold to shop x99/All unlocked (same as All Monster drops + gather spots + Unique Equipments in shop)]
 C0000000 00000150
 280A63A9 00000063
 DC000000 00000001
 D1000000 00000000
+
+[All Monster drops in shop x99]
+C0000000 000000F0
+280A63A9 00000063
+DC000000 00000001
+D2000000 00000000
+C0000000 0000000A
+280A64D5 00000063
+DC000000 00000001
+D2000000 00000000
+
+[All gather spots items in shop x99]
+C0000000 00000036
+280A649F 00000063
+DC000000 00000001
+D2000000 00000000
+
+[All Unique Equipments in shop x99]
+C0000000 00000011
+280A64E9 00000063
+DC000000 00000001
+D2000000 00000000
 
 [Press Y+R to obtain any item]
 *Replace xxxx by the address of the item in http://raid.s500.xrea.com/code/3ds/000CF800/item.txt

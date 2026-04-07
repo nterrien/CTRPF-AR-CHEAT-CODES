@@ -108,6 +108,12 @@ D2000000 00000000
 [Skills don't use TP v1.2]
 002DFAA0 E0200000
 
+[Material sold to shop x99/All unlocked (same as All Monster drops + gather spots + Unique Equipments in shop)]
+C0000000 00000141
+281151BD 00000063
+DC000000 00000001
+D1000000 00000000
+
 [All Monster drops in Sitoth Trading x99]
 C0000000 000000EA
 281151BD 00000063

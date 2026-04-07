@@ -78,11 +78,33 @@ C0000000 00000270
 DC000000 00000001
 D1000000 00000000
 
-[Material sold to shop x99/All unlocked]
+[Material sold to shop x99/All unlocked (same as All Monster drops + gather spots + Unique Equipments in shop)]
 C0000000 00000150
 280A8BF9 00000063
 DC000000 00000001
 D1000000 00000000
+
+[All Monster drops in shop x99]
+C0000000 000000F0
+280A8BF9 00000063
+DC000000 00000001
+D2000000 00000000
+C0000000 0000000A
+280A8D25 00000063
+DC000000 00000001
+D2000000 00000000
+
+[All gather spots items in shop x99]
+C0000000 00000036
+280A8CEF 00000063
+DC000000 00000001
+D2000000 00000000
+
+[All Unique Equipments in shop x99]
+C0000000 00000011
+280A8D39 00000063
+DC000000 00000001
+D2000000 00000000
 
 [Press Y+R to obtain any item]
 *Replace xxxx by the address of the item in https://etrianodyssey.wiki/wiki/EOU/Cheat_Codes#Get_any_item
