@@ -13,6 +13,12 @@ C0000000 0000001D
 DC000000 00000150
 D2000000 00000000
 
+[Press Y+R to obtain any item]
+*Replace xxxx by the address of the item in https://etrianodyssey.wiki/wiki/EO5/Cheat_Codes#Get_any_item
+DD000000 00000900
+181A6864 0000xxxx
+D2000000 00000000
+
 [256x experience after battle]
 0045EFC0 EE102A10
 0045EFC4 E92D4002
